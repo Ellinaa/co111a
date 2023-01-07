@@ -10,4 +10,4 @@
 課程教材 | https://gitlab.com/cccnqu111/co
 
 # 筆記
-[NOTE](https://github.com/Ellinaa//wiki/NOTE)
+[NOTE]https://github.com/Ellinaa/co111a/wiki/NOTE
