@@ -9,3 +9,5 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://gitlab.com/cccnqu111/co
 
+# 筆記
+[NOTE](https://github.com/Ellinaa//wiki/NOTE)
